@@ -7,9 +7,9 @@
   <a href="https://https://www.instagram.com/daviny.vidal/">Instagram</a>
 </p>
 
-### Olá, pessoal! :wave:
+### Olá! :wave:
 
-Meu nome é Daviny Vidal, tenho 27 anos e moro em São Paulo.
+Meu nome é Daviny Vidal, Sou uma mulher no mundo da ciência exata, tenho 27 anos e moro em São Paulo.
 
 E algumas curiosidades sobre mim :v:
 
