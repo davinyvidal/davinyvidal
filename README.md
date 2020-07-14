@@ -1,4 +1,4 @@
-<h1 align="center">(✿◠‿◠) </h1>
+<h1 align="center">(◠‿◠) </h1>
 
 <h3 align="center">Links:</h3>
 <p align="center">
