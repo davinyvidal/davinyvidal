@@ -16,9 +16,9 @@ E algumas curiosidades sobre mim :v:
 
 #### Workshop ou Oficina organizado por mim
 
-[Workshop Python com Arduino](http://pythoncomarduino.divulgue.info/)
+- [Workshop Python com Arduino](http://pythoncomarduino.divulgue.info/)
 
-[Workshop Linux Básico para dev](http://linuxbasicoparadev.divulgue.info/)        
+- [Workshop Linux Básico para dev](http://linuxbasicoparadev.divulgue.info/)        
 
 
 #### Me encontre por aí! :beer:
