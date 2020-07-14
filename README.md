@@ -18,7 +18,7 @@ And some curiosities about me :v:
 
 ---
 
-##### Workshop or Workshop organized by me
+##### Workshop organized by me
 
 - [Workshop Python com Arduino](http://pythoncomarduino.divulgue.info/)
 
