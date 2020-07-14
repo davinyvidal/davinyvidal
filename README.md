@@ -1,3 +1,14 @@
+<h1 align="center">o͡͡͡͡͡͡͡͡͡͡͡͡͡͡╮(｡ᐤヮᐤ｡)╭o͡͡͡͡͡͡͡͡͡͡͡͡͡͡ </h1>
+
+<h3 align="center">Links:</h3>
+<p align="center">
+  <a href="https://davinyvidal.github.io">Site Pessoal</a> ｡･:*:･ﾟ★,｡･:*:･ﾟ☆ 
+  <a href="https://www.linkedin.com/in/davinyvidal/">LinkedIn</a> ｡･:*:･ﾟ★,｡･:*:･ﾟ☆ 
+  <a href="https://https://www.instagram.com/daviny.vidal/">Instagram</a>
+</p>
+
+
+
 ### Olá, pessoal! :wave:
 
 Meu nome é Daviny Vidal, tenho 27 anos e moro em São Paulo.
@@ -15,12 +26,6 @@ E algumas curiosidades sobre mim :v:
 
 - [Workshop Linux Básico para dev](http://linuxbasicoparadev.divulgue.info/)        
 
-
-#### Me encontre por aí! :beer:
-
-- [LinkedIn](https://www.linkedin.com/in/davinyvidal/)
-
-- [Site Pessoal](https://davinyvidal.github.io)
 
 
 
