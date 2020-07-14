@@ -4,7 +4,8 @@
 <p align="center">
   <a href="http://davinyvidal.divulgue.info/">Personal Website</a> ｡･:*:･ﾟ★,｡･:*:･ﾟ☆ 
   <a href="https://www.linkedin.com/in/davinyvidal/">LinkedIn</a> ｡･:*:･ﾟ★,｡･:*:･ﾟ☆ 
-  <a href="https://www.instagram.com/daviny.vidal/">Instagram</a>
+  <a href="https://www.instagram.com/daviny.vidal/">Instagram</a> ｡･:*:･ﾟ★,｡･:*:･ﾟ☆ 
+  <a href="https://www.youtube.com/channel/UCbcIGM1t3Hmzcm5w-gU6PWg">Youtube</a>
 </p>
 
 
