@@ -2,33 +2,24 @@
 
 <h3 align="center">Links:</h3>
 <p align="center">
-  <a href="https://davinyvidal.github.io">Site Pessoal</a> ｡･:*:･ﾟ★,｡･:*:･ﾟ☆ 
+  <a href="https://davinyvidal.github.io">Personal Website</a> ｡･:*:･ﾟ★,｡･:*:･ﾟ☆ 
   <a href="https://www.linkedin.com/in/davinyvidal/">LinkedIn</a> ｡･:*:･ﾟ★,｡･:*:･ﾟ☆ 
   <a href="https://www.instagram.com/daviny.vidal/">Instagram</a>
 </p>
 
-### Olá! :wave:
 
-Meu nome é Daviny Vidal, uma mulher no mundo da ciência exata, tenho 27 anos e moro em São Paulo.
+### Hello! :wave:
+My name is Daviny Vidal, a woman in the world of exact science, I am 27 years old and I live in São Paulo.
 
-E algumas curiosidades sobre mim :v:
+And some curiosities about me :v:
 
-- Gosto de assistir séries no meu tempo livre
-- Adoro ter uma conversa sobre física quântica, astrofísica, eletrônica, mas de vez em quando não dispenso conversar bbb, series e novelas. 
+- I like to watch series in my spare time
+- I love having a conversation about quantum physics, astrophysics, electronics, but every now and then I don't need to talk about bbb, series and novels.
 
 ---
 
-#### Workshop ou Oficina organizado por mim
+##### Workshop or Workshop organized by me
 
 - [Workshop Python com Arduino](http://pythoncomarduino.divulgue.info/)
 
-- [Workshop Linux Básico para dev](http://linuxbasicoparadev.divulgue.info/)        
-
-
-
-
-
-
-
-
-
+- [Workshop Linux Básico para dev](http://linuxbasicoparadev.divulgue.info/)  
