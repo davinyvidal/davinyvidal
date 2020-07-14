@@ -2,7 +2,7 @@
 
 <h3 align="center">Links:</h3>
 <p align="center">
-  <a href="https://davinyvidal.divulgue.info">Personal Website</a> ｡･:*:･ﾟ★,｡･:*:･ﾟ☆ 
+  <a href="http://davinyvidal.divulgue.info/">Personal Website</a> ｡･:*:･ﾟ★,｡･:*:･ﾟ☆ 
   <a href="https://www.linkedin.com/in/davinyvidal/">LinkedIn</a> ｡･:*:･ﾟ★,｡･:*:･ﾟ☆ 
   <a href="https://www.instagram.com/daviny.vidal/">Instagram</a>
 </p>
