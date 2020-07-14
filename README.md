@@ -2,11 +2,6 @@
 
 Meu nome é Daviny Vidal, tenho 27 anos e moro em São Paulo.
 
-Estes são meus objetivos :facepunch:
-
-- Ajudar mais mulheres a entrarem para a área de programação
-- Contribuir com o open source
-
 E algumas curiosidades sobre mim :v:
 
 - Gosto de assistir séries no meu tempo livre
