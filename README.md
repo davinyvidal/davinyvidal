@@ -1,6 +1,6 @@
 ### Olá, pessoal! :wave:
 
-Meu nome é Daviny Vidal, tenho 27 anos e moro em São Paulo. Trabalho com **desenvolvimento**.
+Meu nome é Daviny Vidal, tenho 27 anos e moro em São Paulo.
 
 Estes são meus objetivos :facepunch:
 
