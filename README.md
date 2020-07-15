@@ -19,14 +19,13 @@ And some curiosities about me :v:
 
 ---
 
-##### Workshop organized by me
+##### Works
 
-- [Workshop Python com Arduino](http://pythoncomarduino.divulgue.info/)
+- Workshop organized by me
+    - [Workshop Python com Arduino](http://pythoncomarduino.divulgue.info/)
+    - [Workshop Linux Básico para dev](http://linuxbasicoparadev.divulgue.info/)  
 
-- [Workshop Linux Básico para dev](http://linuxbasicoparadev.divulgue.info/)  
-
-
-##### Website with library packages, list of exercises
+#### Website with library packages, list of exercises
 
 - [www.package-to.info/](http://www.package-to.info/)
     - [Library Genre - PHP](http://www.package-to.info/library_genre)
