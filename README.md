@@ -26,7 +26,7 @@ And some curiosities about me :v:
 - [Workshop Linux Básico para dev](http://linuxbasicoparadev.divulgue.info/)  
 
 
-##### Website with library packages, List of exercises
+##### Website with library packages, list of exercises
 
 - [www.package-to.info/](http://www.package-to.info/)
-    - [library_genre - PHP](http://www.package-to.info/library_genre)
+    - [Library Genre - PHP](http://www.package-to.info/library_genre)
