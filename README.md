@@ -1,5 +1,5 @@
 <h1 align="center">(◠‿◠) <BR>
-☆°･:*:･｡,★,｡･:*:･ﾟ☆ </h1>
+☆°･:*:･｡,★,｡･:*:･°☆ </h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/davinyvidal/"><img src="https://img.shields.io/badge/Perfil-LinkedIn-blue"></a>  
