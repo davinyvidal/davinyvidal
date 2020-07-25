@@ -1,9 +1,9 @@
 <h1 align="center">(◠‿◠) </h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/davinyvidal/">LinkedIn</a>  |
-  <a href="https://www.instagram.com/daviny.vidal/">Instagram</a>  |
-  <a href="https://www.youtube.com/channel/UCbcIGM1t3Hmzcm5w-gU6PWg">Youtube</a>
+  <a href="https://www.linkedin.com/in/davinyvidal/"><img src="https://img.shields.io/badge/Perfil-LinkedIn-blue"></a>  
+  <a href="https://www.instagram.com/daviny.vidal/"><img src="https://img.shields.io/badge/Perfil-Instragram-orange"></a>  
+  <a href="https://www.youtube.com/channel/UCbcIGM1t3Hmzcm5w-gU6PWg"><img src="https://img.shields.io/badge/Canal-YouTube-red"></a>
 </p>
 
 
@@ -19,7 +19,7 @@ And some curiosities about me :v:
 
 <h3 align="center">Links:</h3>
 <p align="center">
-  <a href="http://pythoncomarduino.divulgue.info/">Workshop Python com Arduino</a> ｡･:*:･ﾟ★,｡･:*:･ﾟ☆ 
-  <a href="http://linuxbasicoparadev.divulgue.info/">Workshop Linux Básico para dev</a> ｡･:*:･ﾟ★,｡･:*:･ﾟ☆ 
-  <a href="http://www.package-to.info/">Package To Info</a>
+  <a href="http://pythoncomarduino.divulgue.info/"><img src="https://img.shields.io/badge/WorkShop-Python%20com%20Arduino-lightgrey"></a>  ｡･:*:･ﾟ★,｡･:*:･ﾟ☆ 
+  <a href="http://linuxbasicoparadev.divulgue.info/"><img src="https://img.shields.io/badge/WorkShop-Linux%20Básico%20para%20dev-lightgrey"></a>  ｡･:*:･ﾟ★,｡･:*:･ﾟ☆ 
+  <a href="http://www.package-to.info/"><img src="https://img.shields.io/badge/Site%20de%20Pacotes-Package--To.Info-yellowgreen"></a>
 </p>
