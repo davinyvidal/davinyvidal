@@ -1,9 +1,8 @@
 <h1 align="center">(◠‿◠) </h1>
 
-<h3 align="center">Links:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/davinyvidal/">LinkedIn</a> ｡･:*:･ﾟ★,｡･:*:･ﾟ☆ 
-  <a href="https://www.instagram.com/daviny.vidal/">Instagram</a> ｡･:*:･ﾟ★,｡･:*:･ﾟ☆ 
+  <a href="https://www.linkedin.com/in/davinyvidal/">LinkedIn</a>  |
+  <a href="https://www.instagram.com/daviny.vidal/">Instagram</a>  |
   <a href="https://www.youtube.com/channel/UCbcIGM1t3Hmzcm5w-gU6PWg">Youtube</a>
 </p>
 
@@ -18,13 +17,9 @@ And some curiosities about me :v:
 
 ---
 
-##### Works
-
-- Workshop organized by me
-    - [Workshop Python com Arduino](http://pythoncomarduino.divulgue.info/)
-    - [Workshop Linux Básico para dev](http://linuxbasicoparadev.divulgue.info/)  
-
-##### Website with library packages, list of exercises
-
-- [Package To Info](http://www.package-to.info/)
-    - [Library Genre - PHP](http://www.package-to.info/library_genre)
+<h3 align="center">Links:</h3>
+<p align="center">
+  <a href="http://pythoncomarduino.divulgue.info/">Workshop Python com Arduino</a> ｡･:*:･ﾟ★,｡･:*:･ﾟ☆ 
+  <a href="http://linuxbasicoparadev.divulgue.info/">Workshop Linux Básico para dev</a> ｡･:*:･ﾟ★,｡･:*:･ﾟ☆ 
+  <a href="http://www.package-to.info/">Package To Info</a>
+</p>
