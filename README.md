@@ -1,7 +1,7 @@
 <h1 align="center">(◠‿◠) <BR>
 ☆°･:*:･｡,★,｡･:*:･°☆ </h1>
 
-	<p align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/davinyvidal/"><img src="https://img.shields.io/badge/Perfil-LinkedIn-blue"></a>  
   <a href="https://www.instagram.com/daviny.vidal/"><img src="https://img.shields.io/badge/Perfil-Instragram-orange"></a>  
   <a href="https://www.youtube.com/channel/UCbcIGM1t3Hmzcm5w-gU6PWg"><img src="https://img.shields.io/badge/Canal-YouTube-red"></a>
