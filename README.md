@@ -5,7 +5,6 @@
   <a href="https://www.linkedin.com/in/davinyvidal/"><img src="https://img.shields.io/badge/Perfil-LinkedIn-blue"></a>  
   <a href="https://www.instagram.com/daviny.vidal/"><img src="https://img.shields.io/badge/Perfil-Instragram-orange"></a>  
   <a href="https://www.github.com/davinyvidal/"><img src="https://img.shields.io/badge/Repositório-GitHub-green"></a>
-    <a href="https://divulgue.info/@davinyvidal"><img src="https://img.shields.io/badge/@davinyvidal-Divulgue.info-red"></a>
 </p>
 
 
@@ -24,5 +23,5 @@ And some curiosities about me :v:
 <p align="center">
   <a href="http://pythoncomarduino.divulgue.info/"><img src="https://img.shields.io/badge/WorkShop-Python%20com%20Arduino-lightgrey"></a> 
   <a href="http://linuxbasicoparadev.divulgue.info/"><img src="https://img.shields.io/badge/WorkShop-Linux%20Básico%20para%20dev-lightgrey"></a>
-    <a href="http://docs.vidal.dev.br/"><img src="https://img.shields.io/badge/MyDocs-Página%20de%20Docs-lightgrey"></a>
+    <a href="http://docs.vidal.dev.br/"><img src="https://img.shields.io/badge/MyDocs-Página%20de%20Docs-red"></a>
 </p>
