@@ -2,9 +2,7 @@
 ☆°･:*:･｡,★,｡･:*:･°☆ </h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/davinyvidal/"><img src="https://img.shields.io/badge/Perfil-LinkedIn-blue"></a>  
-  <a href="https://www.instagram.com/daviny.vidal/"><img src="https://img.shields.io/badge/Perfil-Instragram-orange"></a>  
-  <a href="https://www.github.com/davinyvidal/"><img src="https://img.shields.io/badge/Repositório-GitHub-green"></a>
+  <a href="https://www.linkedin.com/in/davinyvidal/"><img src="https://img.shields.io/badge/Perfil-LinkedIn-blue"></a>
 </p>
 
 
