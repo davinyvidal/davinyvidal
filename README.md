@@ -13,8 +13,6 @@ And some curiosities about me :v:
 
 - I like to watch series in my spare time
 - I love having a conversation about quantum physics, astrophysics, electronics, but every now and then I don't need to talk about bbb, series and novels.
-
-##### 🌐 www.daviny.vidal.dev.br
 ---
 
 <h3 align="center">Links:</h3>
