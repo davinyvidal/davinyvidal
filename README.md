@@ -19,5 +19,5 @@ And some curiosities about me :v:
 <p align="center">
   <a href="http://pythoncomarduino.divulgue.info/"><img src="https://img.shields.io/badge/WorkShop-Python%20com%20Arduino-lightgrey"></a> 
   <a href="http://linuxbasicoparadev.divulgue.info/"><img src="https://img.shields.io/badge/WorkShop-Linux%20Básico%20para%20dev-lightgrey"></a>
-    <a href="http://dnydocs.vidal.dev.br/"><img src="https://img.shields.io/badge/MyDocs-Página%20das%20Docs-red"></a>
+    <a href="https://dnydocs.tipsbook.info/"><img src="https://img.shields.io/badge/MyDocs-Página%20das%20Docs-red"></a>
 </p>
