@@ -1,18 +1,18 @@
 <h1 align="center">(◠‿◠) <BR>
 ☆°･:*:･｡,★,｡･:*:･°☆ </h1>
+    
+  hi 👋, My name is Daviny Vidal, (she/ela), a woman in the world of exact science, I am 28 years old and I live in São Paulo.
+### nerd
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/davinyvidal/"><img src="https://img.shields.io/badge/Perfil-LinkedIn-blue"></a>
-</p>
-
-
-### Hello! :wave:
-My name is Daviny Vidal, a woman in the world of exact science, I am 28 years old and I live in São Paulo.
-
+```python
+def hello(): 
+```
 And some curiosities about me :v:
-
-- I like to watch series in my spare time
-- I love having a conversation about quantum physics, astrophysics, electronics, but every now and then I don't need to talk about bbb, series and novels.
+    
+- 👩💻 I currently work as a Software Developer.
+- 🚀 I like to watch series in my spare time
+- 🦀 I love having a conversation about quantum physics, astrophysics, electronics, but every now and then I don't need to talk about bbb, series and novels.
+- ⚙️ data engineering student.
 ---
 
 <h3 align="center">Links:</h3>
