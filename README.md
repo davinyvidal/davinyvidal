@@ -2,7 +2,7 @@
 ☆°･:*:･｡,★,｡･:*:･°☆ </h1>
     
   hi 👋, My name is Daviny Vidal, (she/ela), a woman in the world of exact science, I am 28 years old and I live in São Paulo.
-### nerd
+### Geek
 
 ```python
 def hello(): 
